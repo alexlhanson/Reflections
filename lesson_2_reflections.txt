@@ -4,3 +4,11 @@ What happens when you initialize a repository? Why do you need to do it?
 	when I run git init command it starts a new repository that can be used to track commits and versions of work in the folder.
 	It automatically adds everything in the folder to the repository.  There is no initial manual commit though.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	
+	The staging area helps to create a step between committed changes and changes in the working directory.
+	This way changes can be committed in increments as well.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	I can just add those files that need to be committed which are associated with a change
