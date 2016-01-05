@@ -12,3 +12,11 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 
 	I can just add those files that need to be committed which are associated with a change
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	
+	If I were trying out a new feature, but need to maintain a working copy that continues as a master.
+
+How do the diagrams help you visualize the branch structure?
+
+	I can see how checking out each branch helps to define new elements while continuing to go forward with the current branch.
