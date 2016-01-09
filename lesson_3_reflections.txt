@@ -16,3 +16,8 @@ What is the benefit of having a copy of the last known state of the remote store
 	
 	If there are changes between the last known state stored locally I can either use it to see differences between my own current local commits or to merge it with my current state.
 	It may also be I have a branch to merge it with locally that is not on the hub.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	I would use a shared drive if on the same network or some cloud service that only allows one user at a time.  Obviously only one user could check an updated file at a time.  
+	Otherwise I would use Google docs, but it doesn't have version-control.
