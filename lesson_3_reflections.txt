@@ -21,3 +21,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 	I would use a shared drive if on the same network or some cloud service that only allows one user at a time.  Obviously only one user could check an updated file at a time.  
 	Otherwise I would use Google docs, but it doesn't have version-control.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	
+	Working in a branch allows me to make single unit commits towards some purpose that can be merged when they are ready to part of the master and are shown to work.
+	It takes more work to do things with branches and to have to fix conflicts as smaller changes are made to master, but the result is flexibility to make potentially larger changes.
